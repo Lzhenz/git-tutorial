@@ -3,4 +3,6 @@
 
 feature-A
 
--fix-b
+-Fix-b
+
+-Fix-C
